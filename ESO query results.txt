@@ -1,0 +1,21 @@
++-----------+---------------------------+
+| JO1       |  no relevant IFU scans    |
+|  JO2      |  no relevant IFU scans    |
+|  JO4      |  4 WFM IFU scans by MUSE  |
+|  JO5      |  4 WFM IFU scans by MUSE  |
+|  JO7      |  no relevant IFU scans    |
+|  JO8      |  8 WFM IFU scans by MUSE  |
+|  JO9      |  no relevant IFU scans    |
+|  JO10     |  10 WFM IFU scans by MUSE |
+|  JO11     |  17 WFM IFU scans by MUSE |
+|  JO12     |  no relevant IFU scans    |
+|  JO13     |  4 WFM IFU scans by MUSE  |
+|  P12823   |  4 WFM IFU scans by MUSE  |
+|  P16762   |  4 WFM IFU scans by MUSE  |
+|  P18060   |  4 WFM IFU scans by MUSE  |
+|  P19482   |  4 WFM IFU scans by MUSE  |
+|  P20159   |  4 WFM IFU scans by MUSE  |
+|  P40457   |  4 WFM IFU scans by MUSE  |
+|  P63947   |  4 WFM IFU scans by MUSE  |
+|  P95080   |  4 WFM IFU scans by MUSE  |
++-----------+---------------------------+
