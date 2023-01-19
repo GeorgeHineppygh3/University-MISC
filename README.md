@@ -5,8 +5,18 @@ Hello, if you are here to:
  - see the Moon Illumination code - please find the moon illumination.py file above.
  - see the Special remarks table - please find the ascii table within the sepcial remarks table.txt file above.
  - see the JO1 sample ETC input table - please find the ascii table within the JO1 table.txt file above.
+ - see the ESO query table - please find the ascii table within the ESO query results.txt file above.
+
+
+
+
+
+
+
+
 
 Justifications for the ETC inputs found within the JO1 table:
+
 - angular diameter - Semi majour axis estimate taken from SIMBAD query using target coordinates (10h41m43.872s	-08d25m11.352s)
 - Spectral distribution - S0 morphological estimates taken from visual inspection of the DSS cutout displayed on SIMBAD query for target coordinates and morphological classification of wings data by Fasano et al. in 2006.
 - B band magnitude - data taken from SIMBAD query using target coordinates
