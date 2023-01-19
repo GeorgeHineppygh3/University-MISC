@@ -7,7 +7,7 @@ Hello, if you are here to:
  - see the JO1 sample ETC input table - please find the ascii table within the JO1.txt file above.
 
 Justifications for the ETC inputs found within the JO1 table:
-- angular diameter - Semi majour axis estimate taken from SIMBAD query using target coordinates (10h41m43.872s	-08d25m11.352s)
+    - angular diameter - Semi majour axis estimate taken from SIMBAD query using target coordinates (10h41m43.872s	-08d25m11.352s)
     - Spectral distribution - S0 morphological estimates taken from visual inspection of the DSS cutout displayed on SIMBAD query for target coordinates and morphological classification of wings data by Fasano et al. in 2006.
     - B band magnitude - data taken from SIMBAD query using target coordinates
     - Redshift - data taken from the OMEGAWINGS children catalogue from Poggianti et al. 2015
