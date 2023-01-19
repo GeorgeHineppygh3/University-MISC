@@ -18,6 +18,8 @@ Justifications for the ETC inputs found within the JO1 table:
 - NDIT - number of observations calculated from the minimum number of mosaic tiles required to cover the entire galaxy
 - DIT - exposure time taken from similar conditions in Knapen et al. 2018 and fine tuned to reach the required SNR and lunar conditions
 
+SIMBAD query can be found at: shorturl.at/cfnGV
+
 Thanks,
 
 Group 1d
