@@ -1,2 +1,7 @@
 # University-MISC
-Code and things that you need for uni and a good way to make code online
+
+Hello, if you are here to see the Moon Illumination code please find it above.
+
+Thanks,
+
+Group 1d
