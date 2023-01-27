@@ -22,7 +22,7 @@ Justifications for the ETC inputs found within the JO1 table:
 - B band magnitude - data taken from SIMBAD query using target coordinates
 - Redshift - data taken from the OMEGAWINGS children catalogue from Poggianti et al. 2015
 - Instrument mode - NFM per our scientific objective of increased spatial resolution
-- Moon FLI - code written using ephem python library available ina above moon illumination.py file
+- Moon FLI - code written using ephem python library available in above moon illumination.py file
 - airmass  - calculated from $\frac{1}{cos(ZA)}$ where ZA represents the zenith angle
 - seeing - conditions assumed from very similar run conditions performed by Knapen et al. 2018 where the best measurements were obtained with seeing below 0.6"
 - NDIT - number of observations calculated from the minimum number of mosaic tiles required to cover the entire galaxy
