@@ -1,4 +1,4 @@
-# University-MISC
+# University-RITA
 
 Hello, if you are here to:
 
